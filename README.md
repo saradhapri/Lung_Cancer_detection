@@ -470,18 +470,6 @@ black .
 flake8 .
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-**Developer**: Saradhapri  
-**Email**: [your.email@example.com]  
-**GitHub**: [https://github.com/saradhapri](https://github.com/saradhapri)  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Project Repository**: [https://github.com/saradhapri/Lung_Cancer_detection](https://github.com/saradhapri/Lung_Cancer_detection)
-
 ## Acknowledgments
 
 - Healthcare professionals for domain expertise and validation
@@ -489,6 +477,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Dataset contributors for providing clinical research data
 - Streamlit team for the excellent web application framework
 - scikit-learn developers for robust machine learning implementations
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
@@ -501,4 +493,5 @@ The developers assume no responsibility for medical decisions made based on the 
 ---
 
 **Note**: This project demonstrates advanced machine learning techniques applied to healthcare data and serves as a portfolio piece showcasing end-to-end ML application development, from data preprocessing to web deployment.
+
 
